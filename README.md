@@ -9,23 +9,23 @@ When trying to use the program, one must add the item they are looking for at th
 
 For my project, I used the following 6 commands:
 ```
-% python3 ebay-dl.py chairs
+$ python3 ebay-dl.py chairs
 ```
 ```
-% python3 ebay-dl.py "gummy worms"
+$ python3 ebay-dl.py "gummy worms"
 ```
 ```
-% python3 ebay-dl.py movies
+$ python3 ebay-dl.py movies
 ```
 
 ```
-% python3 ebay-dl.py chairs --csv
+$ python3 ebay-dl.py chairs --csv
 ```
 ```
-% python3 ebay-dl.py "gummy worms" --csv
+$ python3 ebay-dl.py "gummy worms" --csv
 ```
 ```
-% python3 ebay-dl.py movies --csv
+$ python3 ebay-dl.py movies --csv
 ```
 
 
